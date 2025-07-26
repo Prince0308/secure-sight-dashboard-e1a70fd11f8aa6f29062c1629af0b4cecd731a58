@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
       },
     },
   },
-  images: {
+  images:{
     remotePatterns: [
       {
         protocol: "http",
